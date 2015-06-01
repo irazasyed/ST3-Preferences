@@ -1,22 +1,25 @@
 {
-    "in_process_packages":
-    [
-    ],
-    "installed_packages":
-    [
-        "AdvancedNewFile",
-        "Alignment",
-        "BracketHighlighter",
-        "Comment-Snippets",
-        "CSScomb",
-        "DocBlockr",
-        "Dotfiles Syntax Highlighting",
-        "GitGutter",
-        "HTML-CSS-JS Prettify",
-        "HTML5",
-        "Package Control",
-        "Seti_UI",
-        "Seti_UX",
-        "SideBarEnhancements"
-    ]
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Blade Snippets",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"CSScomb",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"GitGutter",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"Phpcs",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements"
+	]
 }
