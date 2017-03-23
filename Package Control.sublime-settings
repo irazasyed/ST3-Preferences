@@ -1,12 +1,13 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Alignment",
-		"Blade Snippets",
 		"BracketHighlighter",
 		"Comment-Snippets",
 		"CSScomb",
@@ -16,10 +17,10 @@
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
 		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Material Theme - Appbar",
 		"Package Control",
 		"Phpcs",
-		"Seti_UI",
-		"Seti_UX",
 		"SideBarEnhancements"
 	]
 }
